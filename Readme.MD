@@ -16,8 +16,8 @@ SafePass ensures your password isn’t easily guessable or predictable, making y
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/unrealweb01/Keylogger.git
-cd Keylogger
+git clone https://github.com/unrealweb01/SafePass.git
+cd SafePass
 pip install -r requirements.txt
 ```
 ## 🚀 Usage (CLI):
