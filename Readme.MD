@@ -27,14 +27,14 @@ Run the tool with:
 ```bash
 py cli.py
 ```
-## Video Demo:
+## Video Demo (Cli):
 https://github.com/user-attachments/assets/4675a84e-6a83-4346-92bb-33948c2ea64b
 ## GUI:
 ```bash
 py gui.py
 ```
-## Windows Exe File:
-
+## Video Demo (GUI):
+https://github.com/user-attachments/assets/5390ef93-a952-4d37-9e9c-08a681059a10
 ## 🛠 Features:
 
     -✅ Score-based strength evaluation (out of 100)
