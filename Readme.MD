@@ -28,7 +28,7 @@ Run the tool with:
 py cli.py
 ```
 ## Video Demo:
-https://github.com/user-attachments/assets/b77d69de-54ab-4b74-aa56-1b4ad4ab4d88
+(https://github.com/user-attachments/assets/b77d69de-54ab-4b74-aa56-1b4ad4ab4d88)
 ---
 ## GUI:
 ```bash
