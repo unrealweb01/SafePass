@@ -35,6 +35,10 @@ py gui.py
 ```
 ## Video Demo (GUI):
 https://github.com/user-attachments/assets/5390ef93-a952-4d37-9e9c-08a681059a10
+## Exe file Link:
+```bash
+https://drive.google.com/file/d/1N7KPivHnRElCZybLsBU2uflhh0096dEu/view?usp=sharing
+```
 ## 🛠 Features:
 
     -✅ Score-based strength evaluation (out of 100)
